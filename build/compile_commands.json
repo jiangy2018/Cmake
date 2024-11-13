@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/jiangy/Desktop/Project/C++/Learning_Source/Cmake/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\gcc.exe  @CMakeFiles/app.dir/includes_C.rsp -g -o CMakeFiles\\app.dir\\src\\test.c.obj -c C:\\Users\\jiangy\\Desktop\\Project\\C++\\Learning_Source\\Cmake\\src\\test.c",
+  "file": "C:/Users/jiangy/Desktop/Project/C++/Learning_Source/Cmake/src/test.c",
+  "output": "CMakeFiles/app.dir/src/test.c.obj"
+}
+]
